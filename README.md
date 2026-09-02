@@ -5,21 +5,21 @@
 </p>
 
 <p align="center">
-  Google Analytics • Google Search Console • SQL • Python • Power BI • Tableau • Looker Studio • Excel
+  <strong>Google Analytics • Google Search Console • SQL • Python • Power BI • Tableau • Looker Studio • Excel</strong>
 </p>
 
 <p align="center">
   <a href="mailto:noelchannayil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-555555?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/noel-channayil-9b42b5279/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/noel_channayil/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/Noelchannayil/Noelchannayil/tree/main/resumes">
-    <img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-181717?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
