@@ -1,10 +1,15 @@
-# 👋 Hi, I'm Noel
+<h1 align="center">👋 Hi, I'm Noel</h1>
 
-### SEO & Data Analyst | Analytics & Business Intelligence
-
-**Google Analytics • Google Search Console • SQL • Python • Power BI • Tableau • Looker Studio • Excel**
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <strong>SEO & Data Analyst | Analytics & Business Intelligence</strong>
+</p>
+
+<p align="center">
+  Google Analytics • Google Search Console • SQL • Python • Power BI • Tableau • Looker Studio • Excel
+</p>
+
+<p align="center">
+  <a href="mailto:noelchannayil@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/noel-channayil-9b42b5279/">
@@ -13,10 +18,12 @@
   <a href="https://www.instagram.com/noel_channayil/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="YOUR_RESUME_LINK">
+  <a href="https://github.com/Noelchannayil/Noelchannayil/tree/main/resumes">
     <img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
 </p>
+
+---
 
 ---
 
