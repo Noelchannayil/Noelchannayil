@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Noel👋</h1>
+<h1 align="center"> Hi, I'm Noel 👋</h1>
 
 <p align="center">
   <strong>SEO & Data Analyst</strong>
