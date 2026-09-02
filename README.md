@@ -44,80 +44,19 @@
 
 ## 📂 Featured Projects
 
-<p align="center">
-  <strong>✨ End-to-end analytics projects solving real-world business problems and delivering actionable insights.</strong>
-</p>
-
-<table>
-<tr>
-<td width="70%">
-
 ### 🛒 E-Commerce Business Performance Analytics
 
-**Sales • Customer Behavior • KPI Analysis**
+**End-to-end e-commerce analytics project** focused on analyzing sales performance, customer behavior, product performance and key business KPIs using Python, PostgreSQL, SQL and Power BI.
 
-End-to-end e-commerce analytics solution designed to analyze **sales performance, customer behavior, product performance and key business KPIs** for data-driven decision-making.
-
-**Key Highlights**
-
-- 🔄 Built an **ETL pipeline** to clean, transform and integrate multiple Olist e-commerce datasets.
-- 🗄️ Designed a **PostgreSQL relational database** and developed SQL views for business analysis.
-- 📊 Developed **5 interactive Power BI dashboards** with DAX measures, KPI cards, drill-through analysis and dynamic visualizations.
-
-</td>
-
-<td width="30%" align="center">
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-<br>
-
-**📊 5+ Dashboards**
-
-**📈 Sales & KPI Analysis**
-
-**👥 Customer Analysis**
-
-<br>
-
-<a href="https://github.com/Noelchannayil/E-Commerce-Business-Performance-Analytics">
-  <img src="https://img.shields.io/badge/🔗%20View%20Repository-0A66C2?style=for-the-badge" alt="View Repository"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="70%">
+🔗 **Repo:** [E-Commerce Business Performance Analytics](https://github.com/Noelchannayil/E-Commerce-Business-Performance-Analytics)
 
 ### 🏦 Banking Fraud & Financial Risk Intelligence Platform
 
-**Fraud Detection • Risk Analysis • Financial Intelligence**
+**End-to-end banking analytics project** focused on fraud detection, financial risk analysis, customer intelligence and bank performance using Python, MySQL, SQL and Power BI.
 
-End-to-end banking analytics platform focused on **fraud detection, customer intelligence, bank performance and network analysis** using large-scale transaction data.
+🔗 **Repo:** [Banking Fraud & Financial Risk Intelligence Platform](https://github.com/Noelchannayil/Banking-Fraud-Financial-Risk-Intelligence-Platform)
 
-**Key Highlights**
-
-- 🔄 Built a modular **ETL pipeline** to audit, clean, validate and transform the IBM HI-Small AML dataset.
-- 🗄️ Designed a **MySQL relational database** and developed SQL analytics for fraud and financial-risk analysis.
-- 📊 Developed **8 interactive Power BI dashboards** with DAX measures, KPI cards, drill-through investigation and executive reporting.
-
-</td>
-
-<td width="30%" align="center">
-
+---
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
