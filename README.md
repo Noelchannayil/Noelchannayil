@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
 </p>
+
 ---
 
 ## 🎯 About Me
