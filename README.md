@@ -40,13 +40,13 @@
 
 End-to-end e-commerce analysis covering **sales, customers, products and business KPIs** using Python, PostgreSQL, SQL and Power BI.
 
-🔗 **Repo:** [View Project](https://github.com/Noelchannayil/E-Commerce-Business-Performance-Analytics)
+🔗 **Repo:** **[View Project](https://github.com/Noelchannayil/E-Commerce-Business-Performance-Analytics)**
 
 ### 🏦 Banking Fraud & Financial Risk Intelligence Platform
 
 End-to-end banking analysis focused on **fraud detection, financial risk and customer insights** using Python, MySQL, SQL and Power BI.
 
-🔗 **Repo:** [View Project](https://github.com/Noelchannayil/Banking-Fraud-Financial-Risk-Intelligence-Platform)
+🔗 **Repo:** **[View Project](https://github.com/Noelchannayil/Banking-Fraud-Financial-Risk-Intelligence-Platform)**
 
 ---
 
