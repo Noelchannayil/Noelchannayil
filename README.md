@@ -148,8 +148,6 @@ End-to-end banking analytics platform focused on **fraud detection, customer int
 
 ---
 
-────────────────────────────────────
-
 ## 🛠️ Tech Stack
 
 ### 🐍 Languages
