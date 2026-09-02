@@ -89,7 +89,7 @@ End-to-end banking analysis focused on **fraud detection, financial risk and cus
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
----
+
 ## 📊 What I Work On
 
 <p align="center">
@@ -100,11 +100,61 @@ End-to-end banking analysis focused on **fraud detection, financial risk and cus
 <tr>
 <td width="50%">
 
-**🔎 SEO & Web Analytics**
+### 🔎 SEO & Web Analytics
 
-SEO Performance & Keyword Analysis  
-Google Analytics & Search Console  
-Search Performance Insights
+Optimize search visibility and track website performance to identify growth opportunities.
+
+**Focus Areas**
+- 📈 SEO Performance & Keyword Analysis
+- 📊 Google Analytics & Search Console
+- 🔍 Search Performance Insights
+
+</td>
+
+<td width="50%">
+
+### 📊 Data Analytics
+
+Transform raw data into meaningful insights that support better business decisions.
+
+**Focus Areas**
+- 📉 Exploratory Data Analysis
+- 🗄️ SQL-Based Business Analysis
+- 🔄 Data Cleaning & Transformation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📈 Business Intelligence
+
+Build dashboards and reports that turn business data into clear, actionable insights.
+
+**Focus Areas**
+- 📊 Power BI & Tableau Dashboards
+- 📋 Looker Studio Reporting
+- 💡 Business & Performance Insights
+
+</td>
+
+<td width="50%">
+
+### 📊 Data Visualization
+
+Present complex data in a simple and intuitive way to make insights easier to understand and act on.
+
+**Focus Areas**
+- 📊 Interactive Dashboards
+- 🎯 KPI & Performance Tracking
+- 📈 Trends & Data Storytelling
+
+</td>
+</tr>
+</table>
+
+---
 
 </td>
 <td width="50%">
