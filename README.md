@@ -83,19 +83,19 @@ End-to-end analytics project focused on **fraud detection, financial risk analys
 
 ## 📊 What I Work On
 
-| 🔎 SEO & Web Analytics | 📊 Data Analytics |
+| 🔎 **SEO & Web Analytics** | 📊 **Data Analytics** |
 |:---|:---|
-| SEO Performance Analysis | Exploratory Data Analysis |
-| Keyword Research & Analysis | Business & Financial Analytics |
-| Google Analytics & GSC | SQL-Based Analysis |
-| Search Performance | Data Cleaning & Transformation |
+| SEO Performance & Keyword Analysis | Exploratory Data Analysis |
+| Google Analytics & Search Console | SQL-Based Business Analysis |
+| Search Performance Insights | Data Cleaning & Transformation |
 
-| 📈 Business Intelligence | 🛠️ Data Visualization |
+| 📈 **Business Intelligence** | 📊 **Data Visualization** |
 |:---|:---|
-| Power BI Dashboards | Interactive Dashboards |
-| Tableau Reporting | KPI & Performance Tracking |
-| Looker Studio Reports | Trend & Pattern Analysis |
-| Business Insights | Data Storytelling |
+| Power BI & Tableau Dashboards | Interactive Dashboards |
+| Looker Studio Reporting | KPI & Performance Tracking |
+| Business & Performance Insights | Trends & Data Storytelling |
+
+---
 
 ---
 
