@@ -68,10 +68,9 @@ End-to-end analytics project focused on **fraud detection, financial risk analys
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### 🔎 Web Analytics & SEO
+
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=for-the-badge&logo=google&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Keyword Research](https://img.shields.io/badge/Keyword%20Research-34A853?style=for-the-badge&logo=google&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
