@@ -40,21 +40,19 @@
 🚀 Currently building end-to-end analytics, SEO and business intelligence projects.
 
 ---
-────────────────────────────────────
-
 ## 📂 Featured Projects
 
 ### 🛒 E-Commerce Business Performance Analytics
 
-**End-to-end e-commerce analytics project** focused on analyzing sales performance, customer behavior, product performance and key business KPIs using Python, PostgreSQL, SQL and Power BI.
+End-to-end e-commerce analysis covering **sales, customers, products and business KPIs** using Python, PostgreSQL, SQL and Power BI.
 
-🔗 **Repo:** [E-Commerce Business Performance Analytics](https://github.com/Noelchannayil/E-Commerce-Business-Performance-Analytics)
+🔗 **Repo:** [View Project](https://github.com/Noelchannayil/E-Commerce-Business-Performance-Analytics)
 
 ### 🏦 Banking Fraud & Financial Risk Intelligence Platform
 
-**End-to-end banking analytics project** focused on fraud detection, financial risk analysis, customer intelligence and bank performance using Python, MySQL, SQL and Power BI.
+End-to-end banking analysis focused on **fraud detection, financial risk and customer insights** using Python, MySQL, SQL and Power BI.
 
-🔗 **Repo:** [Banking Fraud & Financial Risk Intelligence Platform](https://github.com/Noelchannayil/Banking-Fraud-Financial-Risk-Intelligence-Platform)
+🔗 **Repo:** [View Project](https://github.com/Noelchannayil/Banking-Fraud-Financial-Risk-Intelligence-Platform)
 
 ---
 ### 🛠️ Tech Stack
