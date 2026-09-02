@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Noel</h1>
 
 <p align="center">
-  <strong>SEO & Data Analyst | Analytics & Business Intelligence</strong>
+  <strong>SEO & Data Analyst</strong>
 </p>
 
 <p align="center">
