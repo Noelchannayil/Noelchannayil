@@ -55,35 +55,6 @@ End-to-end banking analysis focused on **fraud detection, financial risk and cus
 🔗 **Repo:** [View Project](https://github.com/Noelchannayil/Banking-Fraud-Financial-Risk-Intelligence-Platform)
 
 ---
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-<br>
-
-**💳 5.08M+ Transactions**
-
-**🔎 8 Dashboards**
-
-**🛡️ Fraud & Risk Analysis**
-
-<br>
-
-<a href="https://github.com/Noelchannayil/Banking-Fraud-Financial-Risk-Intelligence-Platform">
-  <img src="https://img.shields.io/badge/🔗%20View%20Repository-0A66C2?style=for-the-badge" alt="View Repository"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ Tech Stack
 
