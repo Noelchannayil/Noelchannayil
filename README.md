@@ -1,18 +1,24 @@
-Hi, I'm Noel 👋
+# 👋 Hi, I'm Noel
 
-SEO & Data Analyst
-Google Analytics • GSC • SQL • Power BI • Tableau • Looker Studio • Excel
+### SEO & Data Analyst | Analytics & Business Intelligence
 
-────────────────────────────────────
+**Google Analytics • Google Search Console • SQL • Python • Power BI • Tableau • Looker Studio • Excel**
 
-🎯 About Me
+---
+
+## 🎯 About Me
 
 📊 I turn search, website and business data into actionable insights.
-🔎 Experienced in SEO analytics, keyword research, Google Analytics and Search Console.
-📈 Build dashboards and reports using Power BI, Tableau and Looker Studio.
-🐍 Use Python and SQL for data cleaning, analysis and automation.
-🚀 Currently building end-to-end analytics & SEO projects.
 
+🔎 Experienced in SEO analytics, keyword research, Google Analytics and Google Search Console.
+
+📈 Build dashboards and reports using Power BI, Tableau and Looker Studio.
+
+🐍 Use Python and SQL for data cleaning, analysis and automation.
+
+🚀 Currently building end-to-end analytics, SEO and business intelligence projects.
+
+---
 ────────────────────────────────────
 
 📂 Featured Projects
