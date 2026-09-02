@@ -27,14 +27,10 @@
 
 ## 🎯 About Me
 
-📊 I turn search, website and business data into actionable insights.
-
-🔎 Experienced in SEO analytics, keyword research, Google Analytics and Google Search Console.
-
-📈 Build dashboards and reports using Power BI, Tableau and Looker Studio.
-
-🐍 Use Python and SQL for data cleaning, analysis and automation.
-
+📊 I turn search, website and business data into actionable insights.  
+🔎 Experienced in SEO analytics, keyword research, Google Analytics and Google Search Console.  
+📈 Build dashboards and reports using Power BI, Tableau and Looker Studio.  
+🐍 Use Python and SQL for data cleaning, analysis and automation.  
 🚀 Currently building end-to-end analytics, SEO and business intelligence projects.
 
 ---
