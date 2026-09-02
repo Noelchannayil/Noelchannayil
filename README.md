@@ -147,17 +147,6 @@ End-to-end banking analytics platform focused on **fraud detection, customer int
 </table>
 
 ---
----
-
-### 🏦 Banking Fraud & Financial Risk Intelligence Platform
-
-End-to-end analytics project focused on **fraud detection, financial risk analysis and data-driven insights** using SQL and interactive dashboards.
-
-**Tools:** `Python` `MySQL` `SQL` `Power BI`
-
-🔗 **[View Repository](https://github.com/Noelchannayil/Banking-Fraud-Financial-Risk-Intelligence-Platform)**
-
----
 
 ────────────────────────────────────
 
