@@ -159,33 +159,4 @@ Present complex data in a simple and intuitive way to make insights easier to un
 </td>
 <td width="50%">
 
-**📊 Data Analytics**
-
-Exploratory Data Analysis  
-SQL-Based Business Analysis  
-Data Cleaning & Transformation
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📈 Business Intelligence**
-
-Power BI & Tableau Dashboards  
-Looker Studio Reporting  
-Business & Performance Insights
-
-</td>
-<td width="50%">
-
-**📊 Data Visualization**
-
-Interactive Dashboards  
-KPI & Performance Tracking  
-Trends & Data Storytelling
-
-</td>
-</tr>
-</table>
 ---
