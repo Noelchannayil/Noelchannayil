@@ -21,16 +21,27 @@
 ---
 ────────────────────────────────────
 
-📂 Featured Projects
+## 📂 Featured Projects
 
-🔹 E-Commerce Business Performance Analytics
-Python • PostgreSQL • SQL • Power BI
+### 🛒 E-Commerce Business Performance Analytics
 
-🔹 Banking Fraud & Financial Risk Intelligence Platform
-Python • MySQL • SQL • Power BI
+End-to-end e-commerce analytics project focused on analyzing **sales performance, customer behavior and key business KPIs**.
 
-🔹 SEO Analytics & Search Performance
-Google Analytics • GSC • SQL • Power BI
+**Tools:** `Python` `PostgreSQL` `SQL` `Power BI`
+
+🔗 **[View Repository](https://github.com/Noelchannayil/E-Commerce-Business-Performance-Analytics)**
+
+---
+
+### 🏦 Banking Fraud & Financial Risk Intelligence Platform
+
+End-to-end analytics project focused on **fraud detection, financial risk analysis and data-driven insights** using SQL and interactive dashboards.
+
+**Tools:** `Python` `MySQL` `SQL` `Power BI`
+
+🔗 **[View Repository](https://github.com/Noelchannayil/Banking-Fraud-Financial-Risk-Intelligence-Platform)**
+
+---
 
 ────────────────────────────────────
 
