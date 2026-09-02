@@ -155,8 +155,3 @@ Present complex data in a simple and intuitive way to make insights easier to un
 </table>
 
 ---
-
-</td>
-<td width="50%">
-
----
