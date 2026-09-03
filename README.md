@@ -1,8 +1,6 @@
-<h1 align="center"> Hi, I'm Noel 👋</h1>
+<h1 align="center">👋 Hi, I'm Noel</h1>
 
-<p align="center">
-  <strong>SEO & Data Analyst</strong>
-</p>
+<h2 align="center">SEO & Data Analyst</h2>
 
 <p align="center">
   <strong>Google Analytics • Google Search Console • SQL • Python • Power BI • Tableau • Looker Studio • Excel</strong>
@@ -17,6 +15,9 @@
   </a>
   <a href="https://www.instagram.com/noel_channayil/">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://noel-channayil.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/Noelchannayil/Noelchannayil/tree/main/resumes">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-181717?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
